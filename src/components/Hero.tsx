@@ -1,4 +1,3 @@
-
 import { ArrowRight, Sparkles } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
@@ -15,15 +14,13 @@ const Hero = () => {
           <span className="text-sm font-semibold text-[#313B7B] tracking-wide">NEXUS THREAD</span>
         </div>
         
-        <h1 className="text-5xl md:text-7xl lg:text-8xl font-light text-[#313B7B] mb-8 tracking-tight leading-none">
-          Innovation
-          <span className="block bg-gradient-to-r from-[#6D0016] via-[#6D0016]/90 to-[#6D0016]/70 bg-clip-text text-transparent font-normal mt-2">
-            Meets Excellence
-          </span>
+        <h1 className="text-6xl md:text-8xl font-bold text-[#313B7B] mb-8 tracking-tight leading-none">
+          <span className="block">Driving Innovation</span>
+          <span className="block text-[#6D0016]">Forward</span>
         </h1>
-        
+
         <p className="text-xl md:text-2xl lg:text-3xl text-[#313B7B]/85 mb-14 max-w-3xl mx-auto leading-relaxed font-light">
-          Cutting-edge technology solutions that transform businesses and drive innovation forward.
+          Where Leadership Drives Excellence.
         </p>
         
         <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">

@@ -6,12 +6,7 @@ const About = () => {
       icon: Target,
       title: "Precision Focus",
       description: "Targeted solutions that deliver measurable results and exceed expectations."
-    },
-    {
-      icon: Users,
-      title: "Expert Team", 
-      description: "Industry veterans with proven experience and innovative approaches."
-    },
+    }, 
     {
       icon: Zap,
       title: "Rapid Innovation",
