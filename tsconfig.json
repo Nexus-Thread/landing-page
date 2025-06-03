@@ -31,8 +31,7 @@
     "declaration": true,
     "skipLibCheck": true,
     "incremental": true,
-    "types": [
-      "vitest/globals",
+    "types": [  
       "astro/client",
       "@testing-library/jest-dom",
       "unplugin-icons/types/react"
